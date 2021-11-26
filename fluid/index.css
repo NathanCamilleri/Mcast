@@ -1,0 +1,104 @@
+body{
+    background-color: green;
+}
+.div11{
+    text-align: center;
+    background-color: green;
+    float: center;
+    width: 80%;
+    height: 15%;
+    padding: 10px;
+    font-size: 60px;
+    margin-right: 10px;
+    margin-left: 0%;
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+    width: 80%;
+}
+
+.top{
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+    width: 76.4%;
+    text-align: left;
+    background-color: black;
+}
+
+.fer{
+    resize: both;
+    overflow: auto;
+}
+
+
+.div1{
+    clear: both;
+    border: 1px outset black;
+    text-align: center;
+    background-color: blue;
+    background-size: cover;
+    color: aliceblue;
+    float: left;
+    width: 19.584%;
+    height: 40%;
+    
+
+}
+
+.div2{
+    font: white;
+    border: 1px outset black;
+    text-align: center;
+    background-color: blue;
+    background-size: cover;
+    color: aliceblue;
+    float: left;
+    width: 19.584%;
+    height: 40%;
+}
+
+.div3{
+    border: 1px outset black;
+    text-align: center;
+    background-color: blue;
+    background-size: cover;'
+    color: aliceblue;
+    float:left;
+    width: 19.584%;
+    height: 40%;
+
+}
+
+.div4{
+    border: 1px outset black;
+    text-align: center;
+    background-color: blue;
+    background-size: cover;'
+    color: aliceblue;
+    float:left;
+    width: 19.584%;
+    height: 40%;
+
+}
+
+.taht{
+    background-color: orange;
+    height: 36%;
+    margin-top: 20%;
+    text-align: center;
+    width: 78.9%;
+}
+
+.taht1{
+   margin-top: 100px; 
+}
+
+.barra{
+    margin-left: 220px;
+}

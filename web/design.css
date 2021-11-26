@@ -1,0 +1,94 @@
+h1 {
+    color: red;
+}
+
+body{
+    background-color: beige;
+}
+
+.mydiv{
+      border: 5px outset antiquewhite;
+  background-color: antiquewhite;
+  text-align: center;
+  height: 20%;
+}
+
+.div1{
+    border: 1px outset black;
+    text-align: center;
+    background-image: url('ferrari.jpeg');
+    background-size: cover;
+    color: aliceblue;
+    float: left;
+    width: 33.3%;
+    height: 30%
+    
+
+}
+
+.div2{
+    font: white;
+    border: 1px outset black;
+    text-align: center;
+    background-image: url('porsche.jpeg');
+    background-size: cover;
+    color: aliceblue;
+    float: right;
+    width: 33.33%;
+    height: 30%;
+}
+
+.div3{
+    border: 1px outset black;
+    text-align: center;
+    background-image: url('bugatti.jpeg');
+    background-size: cover;'
+    color: aliceblue;
+    float:right;
+    width: 32.8%;
+    height: 30%
+
+}
+
+.bdiv{
+    border: 2px outset black;
+    text-align: center;
+    background-image: url('Rs.jpeg');
+    background-size: cover;'
+    float: right;
+    height: 100%
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: aqua;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: dimgrey;
+  color: white;
+}
+
+.fer{
+    resize: both;
+    overflow: auto;
+}
+
+.h1aa{
+    font-family: monospace;
+    font-size: 60px
+}

@@ -1,0 +1,52 @@
+.body{
+    background color: slategrey;
+}
+
+.contact{
+    border: 5px outset antiquewhite;
+    background-color: darkgrey;
+    opacity: 80%;
+    text-align: center;
+    height: 90%;
+}
+
+.h1a{
+    color: black;
+    font-size: 42px;
+}
+
+
+.h4a{
+    font-size: 40px;
+}
+
+.bdiv{
+    border: 2px outset black;
+    text-align: center;
+    background-color:black;
+    height: 100%
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: aqua;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: dimgrey;
+  color: white;
+}
